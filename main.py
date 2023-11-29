@@ -33,4 +33,8 @@ nums = [1, 0, -1, 0, -2, 2]
 target = 0
 print(fourSum(nums, target))
 
+nums = [2, 2, 2, 2, 2]
+target = 8
+print(fourSum(nums, target))
+
 # NEW branch: feature
